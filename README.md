@@ -3,7 +3,7 @@
 DISCO, Distributed Co-assembly of Overlap graphs, is a multi threaded and multiprocess distributed memory overlap-layout-consensus (OLC) metagenome assembler - **DISCO**. The detailed user manual of the assembler and how to use it to acheive best results is provided here: [http://disco.omicsbio.org/user-manual](http://disco.omicsbio.org/user-manual). This is a quick start guide generally for developers and testers. Users with limited experience with genome assembly are advised to use the user manual.    
 
 ### Current Version
-* v1.0
+* v1.1
 
 ### Setup and Installation
 
